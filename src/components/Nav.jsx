@@ -44,7 +44,6 @@ const Nav = () => {
     </div>
     <div className='flex justify-evenly items-center bg-gray-400 h-[25px] mb-4 flex-wrap'>
           <Link to="/"><p>Home</p></Link>
-          <Link to="/Shop"><p>Shop</p></Link>
           <Link to="/Contact"><p>Contact</p></Link>
           <Link to="/Cart"><p>Cart</p></Link>
           
